@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_VEH_LYNXGPR</lockHash>
+			<modelNameHash>lynxgpr</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>LYNXGPR</textLabel>
+			<vehicleMods />
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>

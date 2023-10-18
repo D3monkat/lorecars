@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+	<Item>
+		<lockHash>CU_VEH_zaskala128</lockHash>
+		<modelNameHash>zaskala128</modelNameHash>
+		<cost value="100"/>
+		<textLabel>zaskala128</textLabel>
+		<textLabel></textLabel>
+	</Item>
+	</Vehicles>
+</ShopVehicleDataArray>
